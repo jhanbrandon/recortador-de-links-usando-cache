@@ -1,0 +1,12 @@
+﻿-------------------------------------------------------------------------------
+Test set: com.example.urlshortener.LinkControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.024 s -- in com.example.urlshortener.LinkControllerTest
+-------------------------------------------------------------------------------
+Test set: com.example.urlshortener.LinkServiceTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.896 s -- in com.example.urlshortener.LinkServiceTest
+-------------------------------------------------------------------------------
+Test set: com.example.urlshortener.LocalInfrastructureTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.48 s -- in com.example.urlshortener.LocalInfrastructureTest
